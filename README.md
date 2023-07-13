@@ -30,7 +30,7 @@ This project implements a voice-based home automation system using STM32-F401RE 
 git clone https://github.com/userdevil/STM32-NUCLEO-F401RE_Bluetooth-.git
 ```
 2. Connect the STM32-F401RE microcontroller and HC-05 Bluetooth module according to the wiring diagram provided in the repository.
-![Wiring Diagram](images/diagram.png)
+![Wiring Diagram](https://embeddedthere.com/wp-content/uploads/2023/02/circuit_diagram_2-min.png)
 3. Open the project in STM32CubeIDE and compile the code.
 
 4. Upload the compiled code to the STM32-F401RE microcontroller.
